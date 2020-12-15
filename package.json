@@ -1,0 +1,28 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "A web application to write notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dazrin/Note-Taker.git"
+  },
+  "author": "Dazrin Tioseco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dazrin/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/dazrin/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

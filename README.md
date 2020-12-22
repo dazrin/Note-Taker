@@ -11,7 +11,7 @@
 
 ## About
 This is a note taker web application that allows users to create notes, save them for future viewing, and delete them. This application's back end was created using nodeJS and express. The application is deployed using Heroku. 
-> Heroku Deploy Link: 
+> Heroku Deploy Link: https://desolate-crag-38228.herokuapp.com/
 
 ## Instructions
 1. Navigate to the application by clicking the Heroku Deploy Link: 
@@ -21,11 +21,12 @@ This is a note taker web application that allows users to create notes, save the
 4. If you wish to delete the note, simply select the note you wish to delete and click the trash-can icon. 
 
 ## Screenshots
-![NoteTakerScreenshot](https://i.imgur.com/Qx88vyA.png "A note taker web application")
+![NoteTakerScreenshot](https://i.imgur.com/Qx88vyA.png "A note taker web application homepage")
+![NoteTakerScreenshot2](notetakerdemo.gif "A note taker web application")
 
 
 ## Credits
-Thank you to the students of the UofT Full-Stack Coding Bootcamp for teaching me and helping me develop this application!
+Thank you to German Arcila for his encouragement and support! I wouldn't have been able to finish this application without him :D
 
 ## License
 Please credit me if you use or change my code! Thank you :)
